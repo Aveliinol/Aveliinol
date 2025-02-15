@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
+
+
+![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
+
 <h3 align="center">Estudante de Desenvolvimento de Sistemas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avellinol&label=Profile%20views&color=0e75b6&style=flat" alt="avellinol" /> </p>
