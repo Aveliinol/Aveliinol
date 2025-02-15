@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 
-
-![snake gif](https://github.com/aveliinol/aveliinol/blob/output/github-contribution-grid-snake.gif)
-
 <h3 align="center">Estudante de Desenvolvimento de Sistemas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avellinol&label=Profile%20views&color=0e75b6&style=flat" alt="avellinol" /> </p>
@@ -17,3 +14,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+![snake gif](https://github.com/aveliinol/aveliinol/blob/output/github-contribution-grid-snake.gif)
