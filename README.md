@@ -1,4 +1,4 @@
-<h1 align="center"> 👾Olá, eu sou o Lucas. Eu estudo Desenvolvimento de sistema no Senac👾</h1>  
+<h1 align="center"> 👾Olá, eu sou o Lucas👾</h1>  
 
 <br />
 
