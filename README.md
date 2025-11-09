@@ -1,5 +1,6 @@
 <h1 align="center">👾 Olá! Eu sou o Lucas 👾</h1>
 
+
 💻 Desenvolvedor Fullstack em formação, com foco principal em backend e construção de APIs robustas.
 Sempre buscando evoluir, aprender novas tecnologias e transformar ideias em soluções reais.
 
