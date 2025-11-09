@@ -1,20 +1,36 @@
-<h1 align="center"> 👾Olá, eu sou o Lucas👾</h1>  
+<h1 align="center">👾 Olá! Eu sou o Lucas 👾</h1>
+
+💻 Desenvolvedor Fullstack em formação, com foco principal em backend e construção de APIs robustas.
+Sempre buscando evoluir, aprender novas tecnologias e transformar ideias em soluções reais.
 
 <br />
 
 **About me**
-- 🗣️ Estou estudando atualmente **Desenvolvimento de Sistemas, Scrum, JavaScript, HTML, CSS...**
-  
-- 📕Certificações **https://www.credly.com/users/lucas-gabriel-nascimento-avelino**
-  
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/aveliinol/aveliinol](https://github.com/aveliinol/aveliinol)
-  
-- 📫 Como entrar em contato comigo **lugabriell084@gmail.com**
+🎓 Estudante de Desenvolvimento de Sistemas
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
+💻 Interessado em arquitetura backend, APIs REST, integração entre serviços e boas práticas de código
+
+🚀 Focado em desenvolver projetos que gerem valor real e aumentem meu aprendizado contínuo
+
+📫 Para contato profissional, basta enviar um e-mail: lugabriell084@gmail.com
+
+🎓 Certificações
+
+Six Sigma Yellow Belt (SSYB)
+
+Scrum Fundamentals Certified (SFC)
+
+JavaScript Essentials 1
+
+Desenvolvimento de Sistemas (em andamento)
+
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"></code>
   
 
 
