@@ -6,6 +6,7 @@ Sempre buscando evoluir, aprender novas tecnologias e transformar ideias em solu
 <br />
 
 **About me**
+
 🎓 Estudante de Desenvolvimento de Sistemas
 
 💻 Interessado em arquitetura backend, APIs REST, integração entre serviços e boas práticas de código
@@ -14,7 +15,7 @@ Sempre buscando evoluir, aprender novas tecnologias e transformar ideias em solu
 
 📫 Para contato profissional, basta enviar um e-mail: lugabriell084@gmail.com
 
-🎓 Certificações
+🎓 Certificações:
 
 Six Sigma Yellow Belt (SSYB)
 
@@ -30,7 +31,8 @@ Desenvolvimento de Sistemas (em andamento)
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"></code>
+<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
+<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
   
 
 
