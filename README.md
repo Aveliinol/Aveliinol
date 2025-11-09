@@ -8,23 +8,21 @@ Sempre buscando evoluir, aprender novas tecnologias e transformar ideias em solu
 
 **About me**
 
-🎓 Estudante de Desenvolvimento de Sistemas
+🎓 Estudante de Desenvolvimento de Sistemas.
 
-💻 Interessado em arquitetura backend, APIs REST, integração entre serviços e boas práticas de código
+💻 Interessado em arquitetura backend, APIs REST, integração entre serviços e boas práticas de código.
 
-🚀 Focado em desenvolver projetos que gerem valor real e aumentem meu aprendizado contínuo
+🚀 Focado em desenvolver projetos que gerem valor real e aumentem meu aprendizado contínuo.
 
 📫 Para contato profissional, basta enviar um e-mail: lugabriell084@gmail.com
 
 🎓 Certificações:
 
-Six Sigma Yellow Belt (SSYB)
+Six Sigma Yellow Belt (SSYB).
 
-Scrum Fundamentals Certified (SFC)
+Scrum Fundamentals Certified (SFC).
 
-JavaScript Essentials 1
-
-Desenvolvimento de Sistemas (em andamento)
+Desenvolvimento de Sistemas (em andamento).
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
