@@ -9,7 +9,7 @@ Sempre buscando evoluir, aprender novas tecnologias e transformar ideias em solu
 
 🎓 Estudante de Desenvolvimento de Sistemas.
 
-💻 Interessado em arquitetura backend, APIs REST, integração entre serviços e boas práticas de código.
+💻 Interessado em arquitetura backend, banco de dados, integração entre serviços e boas práticas de código.
 
 🚀 Focado em desenvolver projetos que gerem valor real e aumentem meu aprendizado contínuo.
 
