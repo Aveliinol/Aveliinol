@@ -21,7 +21,7 @@ Six Sigma Yellow Belt (SSYB).
 
 Scrum Fundamentals Certified (SFC).
 
-Desenvolvimento de Sistemas (em andamento).
+Desenvolvimento de Sistemas (Senac).
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
